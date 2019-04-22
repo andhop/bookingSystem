@@ -9,3 +9,6 @@ custom system for making bookings for a business.
 - bookingDesign
 - bookingUI
 
+### bookingAPI
+
+this will house the main data logic via a set of apis
